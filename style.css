@@ -1,6 +1,6 @@
 @font-face {
   font-family: face;
-  src: url(/Gilroy-Font/Gilroy-Light.ttf);
+  src: url(./Gilroy-Font/Gilroy-Light.ttf);
 }
 * {
   margin: 0;
